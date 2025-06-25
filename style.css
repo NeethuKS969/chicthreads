@@ -240,13 +240,11 @@ span,
 
 /* hero section styling */
 .hero{
-    padding-top: 12vh;
-    height: calc(100vh - 12vh); 
+    height:100vh; 
     background-image: url(images/hero-img.jpg);
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
-    margin-top: 5.5rem;
 }
 .hero-content{ 
     height:100%;
